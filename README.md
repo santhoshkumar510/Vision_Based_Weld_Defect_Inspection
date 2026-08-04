@@ -16,7 +16,7 @@ An automated conveyor system that uses real-time computer vision and deep learni
 * **Computer Vision:** OpenCV
 * **Data Handling & Analysis:** NumPy, Pandas, Matplotlib
 
-## 🧠 Machine Learning Architecture & Pipeline
+## Machine Learning Architecture & Pipeline
 
 The system employs a **hybrid Transfer Learning + XGBoost Architecture**. Instead of relying solely on end-to-end deep neural networks, the system leverages a fine-tuned ResNet50V2 backbone for feature extraction and an optimized XGBoost decision tree for final binary classification.
 
