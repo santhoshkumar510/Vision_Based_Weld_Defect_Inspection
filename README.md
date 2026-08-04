@@ -36,14 +36,6 @@ The system employs a **hybrid Transfer Learning + XGBoost Architecture**. Instea
 
 ## Working
 
-[ Conveyor / Sensor ] ---> (Sends "TRIGGER") ---> [ Arduino ] 
-                                                       |
-                                            (Serial Communication)
-                                                       v
- [ Serial Response ] <--- (Sends 'D' or 'G') <--- [ Python ML System ]
-        |                                       (Captures Frame &
-        v                                        Runs Hybrid Inference)
- [ Actuator / Diverter ]
 
  ### Step-by-Step System Flow
 
