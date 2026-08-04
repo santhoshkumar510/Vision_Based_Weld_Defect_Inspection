@@ -12,6 +12,6 @@ An automated conveyor system that uses real-time computer vision and deep learni
 ### Software & ML
 * **Language:** Python
 * **ML Frameworks:** TensorFlow / Keras
-* **Architectures:** EfficientNet, ResNet (Fine-tuned hybrid models)
+* **Architectures:** ResNet, XGBoost
 * **Computer Vision:** OpenCV
 * **Data Handling & Analysis:** NumPy, Pandas, Matplotlib
